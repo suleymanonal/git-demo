@@ -1,3 +1,1 @@
-a
-b test branch satırı.
-burası test branch.
+test branch.
